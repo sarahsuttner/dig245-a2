@@ -1,21 +1,10 @@
-<style>
-    p {
-      font-family: Roboto;
-    }
-  </style>
+
+body {
+  background-color: powderblue;
+}
+
+p {
+  color: red;
+}
+
 /* css */
-
-h2 {
-  font-family: Roboto;
-}
-
-h3 {
-  font-family: Roboto;
-}
-
-.title {
-  color: teal;
-}
-
-.uppercase {
-  text-transform: uppercase;
